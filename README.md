@@ -1,4 +1,4 @@
-# Geometric-transformation, Mini-Project 2 e
+# Geometric-transformation, Mini-Project 2 
 
 
 # English:
