@@ -7,6 +7,13 @@ Question)
 
 By proper geometric transformation, Place images Im4321 to Im435 on the four gray sections of the Im431 image. What geometric transformation do you use? Perform geometric transformations using nearest neighbor interpolation and two-line interpolation.
 
+![Im431](https://user-images.githubusercontent.com/89314766/154630487-c02e3c3b-eaef-485d-8d09-d4b448eb1f80.jpg)
+![Im432](https://user-images.githubusercontent.com/89314766/154630497-bc0353a2-515d-4c21-8bb9-279161a79d36.jpg)
+![Im433](https://user-images.githubusercontent.com/89314766/154630500-915effd3-41b6-4633-900f-349696633a87.jpg)
+![Im434](https://user-images.githubusercontent.com/89314766/154630503-66239fd5-c163-4bc1-a960-4d1affb6dd8c.jpg)
+![Im435](https://user-images.githubusercontent.com/89314766/154630505-e9f690b7-3451-497f-861c-90b56763622f.jpg)
+
+
 
 Abstract)
 
