@@ -1,13 +1,13 @@
 # Geometric-transformation
 
-English:
+# English:
 
 Question)
 
 By proper geometric transformation, Place images Im4321 to Im435 on the four gray sections of the Im431 image. What geometric transformation do you use? Perform geometric transformations using nearest neighbor interpolation and two-line interpolation.
 
 
-Persian:
+# Persian:
 
 سوال)
 
