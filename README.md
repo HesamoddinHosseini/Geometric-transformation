@@ -1,4 +1,4 @@
-# Geometric-transformation, Mini-Project 2 
+# Digital Image Processing (DIP),Geometric-transformation, Mini-Project 2 
 
 
 # English:
@@ -18,6 +18,8 @@ By proper geometric transformation, Place images Im4321 to Im435 on the four gra
 Abstract)
 
 In this mini-project #2, using appropriate geometric transformations, we can place 4 color images (RGB) with dimensions of 64 x 64 on the four trapezoidal, equal and gray parts of a larger image and gray (grayscale) with dimensions of 1000 x 1000. . We perform geometric transformations using nearest neighbor interpolation and two-line interpolation. A two-line model is used to apply the geometric transformation. In which for each of the four images, we must first obtain the coefficients of 4 equations of 4 unknowns once for the rows and once for the columns, and then with the help of those coefficients, we apply the inverse mapping to the target image. We use Matlab to implement this project.
+
+Hesamoddin Hosseini
 
 
 # Persian:
