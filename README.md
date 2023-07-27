@@ -1,4 +1,4 @@
-# Digital Image Processing (DIP),Geometric-transformation, Mini-Project 2 
+# Digital Image Processing (DIP),Geometric Transformation, Mini-Project 2 
 
 
 # English:
